@@ -1,4 +1,4 @@
-# -6Companies30days
+# 6Companies30days
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
