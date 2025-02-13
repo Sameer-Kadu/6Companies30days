@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0485-max-consecutive-ones) |
 | [0661-image-smoother](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0661-image-smoother) |
 ## Matrix
 |  |
