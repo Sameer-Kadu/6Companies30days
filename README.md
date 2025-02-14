@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0485-max-consecutive-ones) |
 | [0661-image-smoother](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0661-image-smoother) |
@@ -18,5 +19,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
