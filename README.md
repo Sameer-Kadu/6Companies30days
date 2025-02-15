@@ -6,6 +6,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
@@ -14,6 +15,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0661-image-smoother) |
 ## Math
 |  |
@@ -38,4 +40,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
