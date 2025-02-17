@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0485-max-consecutive-ones) |
 | [0661-image-smoother](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0661-image-smoother) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
 | ------- |
