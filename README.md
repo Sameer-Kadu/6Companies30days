@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0053-maximum-subarray) |
@@ -28,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
