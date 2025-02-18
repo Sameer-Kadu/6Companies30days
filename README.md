@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -62,4 +64,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
