@@ -68,4 +68,9 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
