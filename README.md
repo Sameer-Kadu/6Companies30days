@@ -33,6 +33,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
