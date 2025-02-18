@@ -71,8 +71,10 @@
 | [0005-longest-palindromic-substring](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
