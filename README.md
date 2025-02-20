@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0485-max-consecutive-ones) |
 | [0661-image-smoother](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0661-image-smoother) |
+| [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Matrix
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0073-set-matrix-zeroes) |
+| [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 ## Database
 |  |
 | ------- |
@@ -87,9 +89,11 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
