@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0073-set-matrix-zeroes) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 ## Database
 |  |
@@ -76,6 +77,7 @@
 | [0020-valid-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -89,6 +91,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
