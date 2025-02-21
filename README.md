@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0661-image-smoother) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1046-max-consecutive-ones-iii) |
@@ -61,6 +62,7 @@
 | [0001-two-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 ## Database
 |  |
@@ -101,6 +103,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Kadu/6Companies30days/tree/master/1046-max-consecutive-ones-iii) |
 ## Simulation
