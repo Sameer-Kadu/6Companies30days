@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0048-rotate-image) |
@@ -55,6 +56,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameer-Kadu/6Companies30days/tree/master/0966-binary-subarrays-with-sum) |
