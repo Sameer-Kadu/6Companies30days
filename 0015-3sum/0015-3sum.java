@@ -23,11 +23,12 @@ class Solution {
                     list.add(nums[end]);
                     listMain.add(list);
                     start++;
+                    end--;
                     while(start < end && nums[start] == nums[start-1])
                     {
                         start++;
                     }
-                    end--;
+                    
                 }
                 else if(sum < 0)
                 {
